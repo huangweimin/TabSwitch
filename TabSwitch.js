@@ -3,7 +3,6 @@
  * 编写时间：2015年3月27号
  * 作者：斯迈欧
  * 邮箱：hhloyyhhl@qq.com
- * 工作室网站：http://www.agevisual.com/
  * version:jquery.TabSwitch.1.0
 ***/
 
